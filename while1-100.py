@@ -1,6 +1,6 @@
 '''realizar un programa que le pida al usuario un numero comprendido entre el 1 y 100
-si el usuario escribe -7 mandar u  mensaje que diga "numero no valido" y
-que vuelva a pedir un numero, si el numero es permitido que lo de en binario'''
+(ejemplo si el usuario escribe -7 mandar u  mensaje que diga "numero no valido" y
+que vuelva a pedir un numero, si el numero es permitido que lo de en binario)'''
 
 
 '''
