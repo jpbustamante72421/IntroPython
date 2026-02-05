@@ -11,4 +11,4 @@ numero=int(input("Ingrese un número: "))
 v=range(1,11)
 for z in range(1,11):
     tabla=numero*z
-    print("{} + {} = {}".format (numero,z,tabla))
+    print("{} * {} = {}".format (numero,z,tabla))
